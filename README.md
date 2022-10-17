@@ -6,8 +6,8 @@
 - Dash : ✔
 - Camouflage : ✔
 - Destroy Object : ✔
-- AI Pawn Rotation Autot : ❌
-- Assassination of playert : ❌
+- AI Pawn Rotation Auto : ❌
+- Assassination of player : ❌
 
 Comment code made : 0%
 
