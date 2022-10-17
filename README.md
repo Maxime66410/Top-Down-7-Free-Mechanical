@@ -5,7 +5,7 @@
 - Pickup & drop Object : ✔
 - Dash : ✔
 - Camouflage : ✔
-- Destroy Object : ❌
+- Destroy Object : ✔
 - AI Pawn Rotation Autot : ❌
 - Assassination of playert : ❌
 
