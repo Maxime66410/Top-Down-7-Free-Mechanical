@@ -9,6 +9,6 @@
 - AI Pawn Rotation Auto And/or Look At to Player : ✔
 - Assassination of player : ✔
 
-Comment code made : 20%
+Comment code made : 30%
 
 Using version UE 4.27.2
